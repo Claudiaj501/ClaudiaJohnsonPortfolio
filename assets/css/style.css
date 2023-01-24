@@ -6,6 +6,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #E6E6E6;
+  background-color: #6E479C;
 }
 
 a {
@@ -178,6 +179,16 @@ h6 {
 }
 
 .github:hover {
+  transition: opacity 0.5s;
+  opacity: 0.3;
+}
+
+.medium:hover {
+  transition: opacity 0.5s;
+  opacity: 0.3;
+}
+
+.twitter:hover {
   transition: opacity 0.5s;
   opacity: 0.3;
 }
