@@ -1047,10 +1047,10 @@ section {
 .portfolio-info a:hover {
   color: #E6E6E6;
 }
-
+/* 
 .languages {
-  max-height: 10%;
-}
+  max-height: 20%;
+} */
 
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
