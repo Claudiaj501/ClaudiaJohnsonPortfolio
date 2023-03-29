@@ -1065,6 +1065,19 @@ section {
 #chatimg {
   max-width: 10rem;
 }
+
+#codeimg {
+  max-width: 20rem;
+}
+
+#androidimg {
+  max-width: 15rem;
+}
+
+.footnote {
+  font-size: 10px;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
